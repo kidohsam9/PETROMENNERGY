@@ -95,11 +95,11 @@ object-position:left;
     .home h1{
     COLOR:;
     font-family: segoe ui;
-    font-size:xx-large;  
+    font-size:large;  
     
 }
     .home h2{
-        font-size:x-large;
+        font-size:large;
     background-image: url(images/2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
@@ -129,11 +129,11 @@ object-position:left;
     .home h1{
     COLOR:;
     font-family: segoe ui;
-    font-size:x-large;  
+    font-size:large;  
     
 }
     .home h2{
-        font-size:large;
+        font-size:small;
     background-image: url(images/2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
