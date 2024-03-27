@@ -89,7 +89,7 @@ object-position:left;
 /*kitu kama simu ivi*/
 @media only screen and (max-width:768px){
     .home{
-        margin-left: 15%;
+        margin-left: 5%;
         margin-top: 15%;
     }
     .home h1{
@@ -123,7 +123,7 @@ object-position:left;
 }
 @media only screen and (max-width:500px){
     .home{
-        margin-left: 15%;
+        margin-left: 5%;
         margin-top: 15%;
     }
     .home h1{
