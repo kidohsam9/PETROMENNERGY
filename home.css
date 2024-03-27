@@ -91,7 +91,7 @@ object-position:left;
     .home{
         margin-left: 5%;
         margin-top: 15%;
-    }
+    }body{height:100%;}
     .home h1{
     COLOR:;
     font-family: segoe ui;
@@ -154,6 +154,7 @@ object-position:left;
         background: firebrick;
         
     }
+body{height:100%;
 }
 
 
