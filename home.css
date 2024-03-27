@@ -87,7 +87,7 @@ object-position:left;
 
 
 /*kitu kama simu ivi*/
-@media only screen and (mIN-width:768px){
+@media only screen and (min-width:768px){
     .home{
         margin-left: 15%;
         margin-top: 15%;
@@ -121,7 +121,7 @@ object-position:left;
         
     }
 }
-@media only screen and (mINN-width:500px){
+@media only screen and (min-width:500px){
     .home{
         margin-left: 15%;
         margin-top: 15%;
